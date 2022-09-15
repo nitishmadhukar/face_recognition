@@ -6,6 +6,7 @@ Uses DeepFace library and builds on top of various face analysis models.
 
 ## Available patterns
 `Verify` - Verifies if two images are of the same person
+
 `Analyze` - Analyzes the `age` and `gender` of the person in the image
 
 ## Steps to Run
